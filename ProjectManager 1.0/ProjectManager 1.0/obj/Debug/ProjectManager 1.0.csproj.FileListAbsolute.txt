@@ -1,0 +1,17 @@
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\bin\Debug\ProjectManager 1.0.exe.config
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\bin\Debug\ProjectManager 1.0.exe
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\bin\Debug\ProjectManager 1.0.pdb
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\bin\Debug\es-419\ProjectManager 1.0.resources.dll
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\bin\Debug\MySql.Data.dll
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\obj\Debug\ProjectManager_1._0.Inicio.resources
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\obj\Debug\ProjectManager_1._0.Properties.Resources.resources
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\obj\Debug\ProjectManager_1._0.Clientes.resources
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\obj\Debug\ProjectManager_1._0.Proyectos.resources
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\obj\Debug\ProjectManager_1._0.Clientes.es-419.resources
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\obj\Debug\ProjectManager 1.0.csproj.GenerateResource.Cache
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\obj\Debug\ProjectManager 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\obj\Debug\es-419\ProjectManager 1.0.resources.dll
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\obj\Debug\ProjectManager 1.0.exe
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\obj\Debug\ProjectManager 1.0.pdb
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\obj\Debug\ProjectManager 1.0.csprojResolveAssemblyReference.cache
+C:\Users\Sineti\Documents\Visual Studio 2017\Projects\ProjectManager 1.0\ProjectManager 1.0\obj\Debug\ProjectManager_1._0.Servicios.resources
